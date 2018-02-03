@@ -11,8 +11,8 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
+# You are currently viewing the profile of
+## KHUSHBOO MAHESHWARI
 ### Header 3
 
 - Bulleted
@@ -32,6 +32,9 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Khushboomah8/khushboo8/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+## To contact me
+mailto:khushboomaheshwari0801@gmail.com
+linkdin:https://www.linkedin.com/in/khushboo-maheshwari-25b66a150
+twitter:https://twitter.com/Khushboomah8
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
